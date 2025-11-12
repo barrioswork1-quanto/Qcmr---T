@@ -3,9 +3,9 @@ Open-source platform for vortex-qubit braiding in superfluid ³He-⁴He
 # QCMR-T v3.0  
 **A Terrestrial Platform for Vortex–Qubit Braiding and Macroscopic Quantum Hydrodynamics**  
 
-**Author**: Fred Barrios (barrios.work1@gmail.com)  
+**Author**: Barrios (barrios.work1@gmail.com)  
 **Date**: November 12, 2025  
-**Status**: Open-source, pre-print, **NOW #1 on r/QuantumComputing & #2 on r/Quantum**  
+**Status**: Open-source, pre-print, 
 
 ---
 
